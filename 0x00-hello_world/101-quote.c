@@ -2,10 +2,10 @@
 #include <unistd.h>
 /**
  * main - c program with UNIX
- * Return: 1
+ * Return: 0
  */
 int main(void)
 {
-	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
-	return (1);
+fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
+return (1);
 }
