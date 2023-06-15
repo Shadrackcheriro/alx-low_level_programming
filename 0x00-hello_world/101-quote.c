@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - c program with UNIX
- * Return:1
+ * Return: 1
  */
 int main(void)
 {
