@@ -19,7 +19,7 @@ int main(void)
 			{
 				putchar(d);
 				putchar(p);
-				if (d == '0' && p == '9')
+				if (d == '9' && p == '9')
 					continue;
 				putchar(',');
 				putchar(' ');
