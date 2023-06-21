@@ -10,11 +10,11 @@ int main(void)
 {
 	int i, z = 0;
 
-	whilen(i < 1024)
+	while(i < 1024)
 	{
 		if ((i % 3 == 0) || (i % 5 == 0))
 		{
-			z + = i;
+			z += i;
 		}
 		i++;
 	}
