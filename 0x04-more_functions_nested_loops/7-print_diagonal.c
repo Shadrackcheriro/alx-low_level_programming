@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
  * print_diagonal - Draws a diagonal lines according to input
- * @n: Times to print diagonal lines
+ * @n: Number of times to print diagonal lines
  * Return: empty
  */
 
@@ -25,7 +24,7 @@ void print_diagonal(int n)
 			_putchar(32);
 		}
 		_putchar(92);
-		_putcahr('\n');
+		_putchar('\n');
 	}
 }
 }
