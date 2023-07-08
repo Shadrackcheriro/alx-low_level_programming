@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the name of the program
+ * main - prints the name of the program, followed by a new line.
  * @argc: number of arguments
  * @argv: arrray of arguments
  *
