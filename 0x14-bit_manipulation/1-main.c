@@ -19,4 +19,4 @@ int main(void)
     print_binary((1 << 10) + 1);
     printf("\n");
     return (0);
-}
+
